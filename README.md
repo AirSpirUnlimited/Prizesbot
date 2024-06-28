@@ -1,0 +1,2 @@
+# Prizesbot
+Privacy policy
